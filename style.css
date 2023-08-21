@@ -1,0 +1,19 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(landscape.png);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(landscape.png);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(landscape.png);
+}
+.carousel-item {
+  min-height: 100vh;
+  min-width: auto;
+}
